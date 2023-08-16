@@ -1,0 +1,21 @@
+.container{
+    height:200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container img{
+    width:20%;
+}
+p{
+    margin-top: 12px;
+}
+.box{
+    display:flex;
+    gap:10px;
+    margin-bottom: 10px;
+}
+.box p{
+    font-weight: bold;
+}
